@@ -1,2 +1,2 @@
-# teste_2
-teste2
+# Teste
+Este repositório foi criado para teste.
